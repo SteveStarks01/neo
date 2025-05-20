@@ -193,3 +193,5 @@ const SchoolRegistrationForm = () => {
     </section>
   )
 }
+
+export default SchoolRegistrationForm
